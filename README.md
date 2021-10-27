@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app is published on [https://zhongxiuzhang.github.io/markdown_previewer/](https://zhongxiuzhang.github.io/markdown_previewer/).
+
 ## Available Scripts
 
 In the project directory, you can run:
